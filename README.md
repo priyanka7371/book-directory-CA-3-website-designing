@@ -1,0 +1,1 @@
+This website is connected to database setting up with a point server so that user can view the application on web. Adding the functionality that allows to create authors that is search authors, view authors inside this application. Adding the functionality that allows to create books that is search books, view books inside the application.
